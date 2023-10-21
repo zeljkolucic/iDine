@@ -22,6 +22,7 @@
 		E4CA4AE12AD20B200088D170 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4CA4AE02AD20B200088D170 /* ItemDetail.swift */; };
 		E4CA4AE32AD2105A0088D170 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4CA4AE22AD2105A0088D170 /* OrderView.swift */; };
 		E4CA4AE52AD2897C0088D170 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4CA4AE42AD2897C0088D170 /* MainView.swift */; };
+		E4CA4AE72AD28AAA0088D170 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4CA4AE62AD28AAA0088D170 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		E4CA4AE02AD20B200088D170 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		E4CA4AE22AD2105A0088D170 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		E4CA4AE42AD2897C0088D170 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		E4CA4AE62AD28AAA0088D170 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 			isa = PBXGroup;
 			children = (
 				E4CA4AAC2AD201B90088D170 /* iDineApp.swift */,
+				E4CA4AE62AD28AAA0088D170 /* CheckoutView.swift */,
 				E4CA4AAE2AD201B90088D170 /* ContentView.swift */,
 				E4CA4AE42AD2897C0088D170 /* MainView.swift */,
 				E4CA4ADE2AD207640088D170 /* ItemRow.swift */,
@@ -284,6 +287,7 @@
 			files = (
 				E4CA4AE12AD20B200088D170 /* ItemDetail.swift in Sources */,
 				E4CA4AE52AD2897C0088D170 /* MainView.swift in Sources */,
+				E4CA4AE72AD28AAA0088D170 /* CheckoutView.swift in Sources */,
 				E4CA4AE32AD2105A0088D170 /* OrderView.swift in Sources */,
 				E4CA4AAF2AD201B90088D170 /* ContentView.swift in Sources */,
 				E4CA4AAD2AD201B90088D170 /* iDineApp.swift in Sources */,
